@@ -5,3 +5,4 @@ Ask Company
 + https://askcompany.kr
 + me@askcompany.kr
 
+$(Date:yyyyMMdd)$(Rev:.r)
